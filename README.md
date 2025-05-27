@@ -12,6 +12,8 @@ Inicialmente usou-se o ChatGPT com o prompt a seguir para elaboração de um pro
 
 _Considerando que eu tenho uma planilha CSV contendo o nome do pesquisador e a data da defesa, consulte o endereço https://www.teses.usp.br/index.php?option=com_jumi&fileid=18&Itemid=85&lang=pt-br e a partir dele extraia o título da teste e o link para o download do trabalho através de um código em Python_
 
-A planilha inicial está na pasta '''dados''' e o resultado na pasta '''results'''
+A planilha inicial está na pasta `dados` e o resultado na pasta `results`
+
+
 
 
